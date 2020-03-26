@@ -1,7 +1,7 @@
 ---
 name: 开发计划
 about: 开发计划模板
-title: ''
+title: "[Todo] <功能要求>"
 labels: ''
 assignees: xz-dev
 
@@ -26,7 +26,7 @@ assignees: xz-dev
 
 <!-- 详细描述这个变动涉及的模块 -->
 
-**该功能是否需要客户端变动**
+**该功能是否需要其他平台项目变动**
 
 <!-- 是、否 -->
 

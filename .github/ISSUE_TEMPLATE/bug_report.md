@@ -2,7 +2,7 @@
 name: BUG 报告
 about: 提交一个 BUG 来帮助我们改进
 title: ''
-labels: 'bug'
+labels: bug
 assignees: xz-dev
 
 ---
