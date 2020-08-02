@@ -1,8 +1,8 @@
 ---
 name: 开发计划
 about: 开发计划模板
-title: "[Todo] <功能要求>"
-labels: ''
+title: "[enhancement] <功能要求>"
+labels: 'enhancement'
 assignees: xz-dev
 
 ---
